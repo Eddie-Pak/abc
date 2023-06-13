@@ -26,7 +26,7 @@ pull 칸
 2. origin연결하기
 3. push
 4. pull
-
+<
 1. 단락
 2. 전환
 
@@ -68,3 +68,4 @@ ___기울리자___
 [멀티캠퍼스](https://www.multicampus.com)
 
 [멀티캠퍼스](https://www.multicampus.com, "설명을 뜨게만든당.")
+
