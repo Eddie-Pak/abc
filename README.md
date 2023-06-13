@@ -26,3 +26,6 @@ pull 칸
 2. origin연결하기
 3. push
 4. pull
+
+1. 단락
+2. 전환
