@@ -71,7 +71,7 @@ ___기울리자___
 
 [멀티캠퍼스](https://www.multicampus.com, "설명을 뜨게만든당.")
 
-[참고개발자들](https://github.com/taegon/my-star-dev-list, "3자가 정한 스타개발자")
+[참고개발자들](https://github.com/xguru/WebDevTutorial, "3자가 정한 스타개발자")
 
 
 ## 8.이미지
